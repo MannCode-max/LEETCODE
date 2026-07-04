@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MannCode-max/LEETCODE/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/MannCode-max/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MannCode-max/LEETCODE/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MannCode-max/LEETCODE/tree/master/0015-3sum) |
 | [0912-sort-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/MannCode-max/LEETCODE/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
