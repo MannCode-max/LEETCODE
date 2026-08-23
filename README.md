@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MannCode-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MannCode-max/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MannCode-max/LEETCODE/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/MannCode-max/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MannCode-max/LEETCODE/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/MannCode-max/LEETCODE/tree/master/0066-plus-one) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MannCode-max/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MannCode-max/LEETCODE/tree/master/0875-koko-eating-bananas) |
