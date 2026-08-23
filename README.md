@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MannCode-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MannCode-max/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MannCode-max/LEETCODE/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/MannCode-max/LEETCODE/tree/master/0046-permutations) |
@@ -108,5 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MannCode-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MannCode-max/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
