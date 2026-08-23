@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MannCode-max/LEETCODE/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/MannCode-max/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MannCode-max/LEETCODE/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/MannCode-max/LEETCODE/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/MannCode-max/LEETCODE/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MannCode-max/LEETCODE/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
 ## Simulation
 |  |
