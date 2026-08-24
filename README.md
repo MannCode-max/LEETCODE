@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/MannCode-max/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MannCode-max/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/MannCode-max/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/MannCode-max/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Divide and Conquer
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
+| [1920-build-array-from-permutation](https://github.com/MannCode-max/LEETCODE/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
