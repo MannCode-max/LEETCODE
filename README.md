@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MannCode-max/LEETCODE/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/MannCode-max/LEETCODE/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MannCode-max/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/MannCode-max/LEETCODE/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 ## Trie
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MannCode-max/LEETCODE/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
