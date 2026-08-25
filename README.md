@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MannCode-max/LEETCODE/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/MannCode-max/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MannCode-max/LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MannCode-max/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MannCode-max/LEETCODE/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/MannCode-max/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -83,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MannCode-max/LEETCODE/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MannCode-max/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MannCode-max/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MannCode-max/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MannCode-max/LEETCODE/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
 ## Simulation
 |  |
