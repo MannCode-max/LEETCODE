@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/MannCode-max/LEETCODE/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
+| [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 ## Trie
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
