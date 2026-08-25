@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/MannCode-max/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3925-concatenate-array-with-reverse](https://github.com/MannCode-max/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MannCode-max/LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0912-sort-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MannCode-max/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
