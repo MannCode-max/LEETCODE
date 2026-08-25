@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MannCode-max/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MannCode-max/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/MannCode-max/LEETCODE/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/MannCode-max/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MannCode-max/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MannCode-max/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/MannCode-max/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MannCode-max/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MannCode-max/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MannCode-max/LEETCODE/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/MannCode-max/LEETCODE/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
