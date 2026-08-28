@@ -1,15 +1,12 @@
 class Solution {
 public:
     int addedInteger(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size() ;
-        int m = nums2.size() ;
-        int sumn = 0 , summ = 0 ;
+       
+        int x = *min_element(nums1.begin(),nums1.end());
+        int y = *min_element(nums2.begin(),nums2.end());
 
-        for(int i = 0 ; i < n ; i++){
-            sumn += nums1[i] ;
-            summ += nums2[i] ;
-        }
+        return y-x;
         
-        return (summ - sumn)/n ;
+        
     }
 };
