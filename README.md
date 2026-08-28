@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/MannCode-max/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/MannCode-max/LEETCODE/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [3959-check-good-integer](https://github.com/MannCode-max/LEETCODE/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/MannCode-max/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MannCode-max/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/MannCode-max/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/MannCode-max/LEETCODE/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
 | ------- |
