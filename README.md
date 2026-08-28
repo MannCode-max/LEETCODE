@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/MannCode-max/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/MannCode-max/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
