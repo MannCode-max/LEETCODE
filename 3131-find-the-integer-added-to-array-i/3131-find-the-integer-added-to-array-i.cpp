@@ -7,13 +7,9 @@ public:
 
         for(int i = 0 ; i < n ; i++){
             sumn += nums1[i] ;
-        }
-
-        for(int i = 0 ; i < m ; i++){
             summ += nums2[i] ;
         }
-
-        if(sumn > summ) return -(sumn - summ)/n ;
-        else return (summ - sumn)/n ;
+        
+        return (summ - sumn)/n ;
     }
 };
