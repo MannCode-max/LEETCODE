@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MannCode-max/LEETCODE/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MannCode-max/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/MannCode-max/LEETCODE/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/MannCode-max/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/MannCode-max/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/MannCode-max/LEETCODE/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/MannCode-max/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/MannCode-max/LEETCODE/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
