@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/MannCode-max/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MannCode-max/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MannCode-max/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## String
 |  |
