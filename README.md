@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MannCode-max/LEETCODE/tree/master/0704-binary-search) |
+| [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/MannCode-max/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/MannCode-max/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/MannCode-max/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MannCode-max/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/MannCode-max/LEETCODE/tree/master/0504-base-7) |
+| [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
