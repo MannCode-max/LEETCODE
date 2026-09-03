@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MannCode-max/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MannCode-max/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/MannCode-max/LEETCODE/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/MannCode-max/LEETCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/MannCode-max/LEETCODE/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/MannCode-max/LEETCODE/tree/master/0169-majority-element) |
