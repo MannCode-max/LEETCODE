@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MannCode-max/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3169-count-days-without-meetings](https://github.com/MannCode-max/LEETCODE/tree/master/3169-count-days-without-meetings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/MannCode-max/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3169-count-days-without-meetings](https://github.com/MannCode-max/LEETCODE/tree/master/3169-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
