@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
 ## Trie
 |  |
