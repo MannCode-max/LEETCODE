@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MannCode-max/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MannCode-max/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1630-arithmetic-subarrays](https://github.com/MannCode-max/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/MannCode-max/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/MannCode-max/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MannCode-max/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1630-arithmetic-subarrays](https://github.com/MannCode-max/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
+| [1630-arithmetic-subarrays](https://github.com/MannCode-max/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
