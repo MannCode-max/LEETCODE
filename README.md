@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MannCode-max/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MannCode-max/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
+| [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
 ## Trie
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-convert-to-base-2](https://github.com/MannCode-max/LEETCODE/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/MannCode-max/LEETCODE/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MannCode-max/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
