@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MannCode-max/LEETCODE/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
+| [0867-transpose-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MannCode-max/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/MannCode-max/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/MannCode-max/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/MannCode-max/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/MannCode-max/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MannCode-max/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/MannCode-max/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MannCode-max/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Interactive
