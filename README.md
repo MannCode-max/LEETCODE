@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MannCode-max/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MannCode-max/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MannCode-max/LEETCODE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MannCode-max/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/MannCode-max/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
