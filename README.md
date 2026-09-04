@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MannCode-max/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MannCode-max/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/MannCode-max/LEETCODE/tree/master/0748-shortest-completing-word) |
+| [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
 ## Trie
