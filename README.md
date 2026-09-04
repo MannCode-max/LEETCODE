@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-convert-to-base-2](https://github.com/MannCode-max/LEETCODE/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/MannCode-max/LEETCODE/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1688-count-of-matches-in-tournament](https://github.com/MannCode-max/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MannCode-max/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MannCode-max/LEETCODE/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/MannCode-max/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/MannCode-max/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MannCode-max/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/MannCode-max/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
