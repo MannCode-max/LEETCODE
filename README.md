@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MannCode-max/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3169-count-days-without-meetings](https://github.com/MannCode-max/LEETCODE/tree/master/3169-count-days-without-meetings) |
+| [3285-find-indices-of-stable-mountains](https://github.com/MannCode-max/LEETCODE/tree/master/3285-find-indices-of-stable-mountains) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MannCode-max/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MannCode-max/LEETCODE/tree/master/3903-smallest-stable-index-i) |
