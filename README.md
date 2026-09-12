@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/MannCode-max/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3169-count-days-without-meetings](https://github.com/MannCode-max/LEETCODE/tree/master/3169-count-days-without-meetings) |
 | [3285-find-indices-of-stable-mountains](https://github.com/MannCode-max/LEETCODE/tree/master/3285-find-indices-of-stable-mountains) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MannCode-max/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MannCode-max/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MannCode-max/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/MannCode-max/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MannCode-max/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MannCode-max/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -326,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MannCode-max/LEETCODE/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MannCode-max/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MannCode-max/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
