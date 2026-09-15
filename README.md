@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MannCode-max/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/MannCode-max/LEETCODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/MannCode-max/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannCode-max/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MannCode-max/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/MannCode-max/LEETCODE/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MannCode-max/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MannCode-max/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -344,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MannCode-max/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MannCode-max/LEETCODE/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MannCode-max/LEETCODE/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
