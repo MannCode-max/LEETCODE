@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/MannCode-max/LEETCODE/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/MannCode-max/LEETCODE/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/MannCode-max/LEETCODE/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/MannCode-max/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1486-xor-operation-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/MannCode-max/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2485-find-the-pivot-integer) |
