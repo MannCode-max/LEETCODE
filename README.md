@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/MannCode-max/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MannCode-max/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MannCode-max/LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1486-xor-operation-in-an-array](https://github.com/MannCode-max/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/MannCode-max/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/MannCode-max/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/MannCode-max/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3280-convert-date-to-binary](https://github.com/MannCode-max/LEETCODE/tree/master/3280-convert-date-to-binary) |
