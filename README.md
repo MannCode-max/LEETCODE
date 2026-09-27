@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MannCode-max/LEETCODE/tree/master/0155-min-stack) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MannCode-max/LEETCODE/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MannCode-max/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/MannCode-max/LEETCODE/tree/master/1154-day-of-the-year) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/MannCode-max/LEETCODE/tree/master/0463-island-perimeter) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
