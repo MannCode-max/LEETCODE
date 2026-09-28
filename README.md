@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/MannCode-max/LEETCODE/tree/master/0155-min-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MannCode-max/LEETCODE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MannCode-max/LEETCODE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/MannCode-max/LEETCODE/tree/master/1436-destination-city) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/MannCode-max/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/MannCode-max/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MannCode-max/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -374,4 +376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MannCode-max/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
